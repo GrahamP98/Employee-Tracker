@@ -40,7 +40,7 @@ function list() {
             "exit"
         ]
     }).then(function (answer) {
-        switch (answer.action) {
+        switch (answer.choices) {
             case "view all departments":
                 viewAllDepartments();
                 break;
