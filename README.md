@@ -1,5 +1,8 @@
 # Employee-Tracker
 
+## Walkthrough Video
+https://www.awesomescreenshot.com/video/9678373?key=718c20cbe520fc9ce059c19b43b7d170
+
 ## Description
 Keep track of employeess, departments, roles, salaries, and managers by utilizing databases with sql.
 
